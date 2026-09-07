@@ -32,7 +32,7 @@ An interactive dashboard is created to help stakeholders track key metrics and i
 The dataset used in this project is the Global Superstore dataset commonly used for retail sales analysis practice.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 🚀 Project Files
 - Global_Superstore_Sales_Analysis.pbix
